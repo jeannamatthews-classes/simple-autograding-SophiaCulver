@@ -1,6 +1,0 @@
-I've worked with Git and Github in the past, so I am familiar with its role as a VCS and how commits, pushes, pulls, cloning, and syncing work.
-I was also already aware of a lot of the documentation aspects, such as the default README description, commit messages, branch feedback, etc.
-The one thing I've always had a poor grasp on is what forking was and how it actually differed from branching.
-So now I know forking from the main branch is actually quite similar to creating a new branch, just from a separate repository.
-It makes sense as a way for OS developers to create / suggest changes or additions to the code without giving random people access to edit the repository directly.
-I could also see it being used to maintain a personal or beta version of a project in a separate repository.
